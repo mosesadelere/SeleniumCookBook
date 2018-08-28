@@ -9,8 +9,6 @@ resevoir = ''
 for line in content:
     resevoir += line
 
-
-
 resevoir.replace('wife','Aramide')
 guest = ''
 while(not guest.__eq__('quit')):
