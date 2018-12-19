@@ -1,0 +1,11 @@
+/home/moses/Documents/CSharp/SeleniumCookBook/bin/Debug/netcoreapp2.1/SeleniumCookBook.deps.json
+/home/moses/Documents/CSharp/SeleniumCookBook/bin/Debug/netcoreapp2.1/SeleniumCookBook.runtimeconfig.json
+/home/moses/Documents/CSharp/SeleniumCookBook/bin/Debug/netcoreapp2.1/SeleniumCookBook.runtimeconfig.dev.json
+/home/moses/Documents/CSharp/SeleniumCookBook/bin/Debug/netcoreapp2.1/SeleniumCookBook.dll
+/home/moses/Documents/CSharp/SeleniumCookBook/bin/Debug/netcoreapp2.1/SeleniumCookBook.pdb
+/home/moses/Documents/CSharp/SeleniumCookBook/obj/Debug/netcoreapp2.1/SeleniumCookBook.csprojAssemblyReference.cache
+/home/moses/Documents/CSharp/SeleniumCookBook/obj/Debug/netcoreapp2.1/SeleniumCookBook.csproj.CoreCompileInputs.cache
+/home/moses/Documents/CSharp/SeleniumCookBook/obj/Debug/netcoreapp2.1/SeleniumCookBook.AssemblyInfoInputs.cache
+/home/moses/Documents/CSharp/SeleniumCookBook/obj/Debug/netcoreapp2.1/SeleniumCookBook.AssemblyInfo.cs
+/home/moses/Documents/CSharp/SeleniumCookBook/obj/Debug/netcoreapp2.1/SeleniumCookBook.dll
+/home/moses/Documents/CSharp/SeleniumCookBook/obj/Debug/netcoreapp2.1/SeleniumCookBook.pdb
